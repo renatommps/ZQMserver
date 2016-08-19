@@ -1,0 +1,1 @@
+Usage: /home/renato/NetBeansProjects/ZQMserver/dist/Debug/GNU-Linux/zqmserver <PORT NUMBER>
